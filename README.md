@@ -1,5 +1,6 @@
 # Pacman
 ## Exercise on pacman game
+<img src= "pacman.png" width='300'/>
 
 Description of the project: What does the current project do?  Include improvements you made in the description. 
 
