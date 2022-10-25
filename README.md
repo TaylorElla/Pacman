@@ -1,4 +1,4 @@
-# Pacman
+# Pacman Factory
 ## Exercise on pacman game
 <img src= "pacman.png" width='300'/>
 
